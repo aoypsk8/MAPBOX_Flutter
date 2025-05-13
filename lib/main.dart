@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mapbox_flutter/traffic_route_line_example.dart';
+import 'package:mapbox_flutter/RouteAnimationScreen.dart';
 import 'package:mapbox_maps_flutter/mapbox_maps_flutter.dart';
 
 void main() {
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(body: TrafficRouteLineExample()),
+      home: Scaffold(body: RouteAnimationScreen()),
     );
   }
 }

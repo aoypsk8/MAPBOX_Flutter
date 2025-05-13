@@ -48,6 +48,8 @@
 
 	<key>MBXAccessToken</key>
 	<string>pk.eyJ1IjoiYW95cHNrOCIsImEiOiJjbHlkdDZwbzUwOHRsMmxvajN3dTZhZjZmIn0.KH6ARraUJpu9WpV-_sK7kw</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs access to your location to calculate routes.</string>
 
 </dict>
 </plist>
