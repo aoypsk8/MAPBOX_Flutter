@@ -1,0 +1,22 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [102.6331, 17.9757],
+            [101.5, 16.5],
+            [100.8, 15.3],
+            [100.6, 14.2],
+            [100.5018, 13.7563]
+          ]
+        },
+        "properties": {
+          "name": "Vientiane to Bangkok route"
+        }
+      }
+    ]
+  }
+  
